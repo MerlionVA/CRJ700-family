@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name type="string">merlion (cloud9) Virtual Airlines</name>
+				<texture>Liveries/CRJ700LR/MIAC9CRJ700LR.png</texture>
+				<registration></registration>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>
